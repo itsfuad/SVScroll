@@ -1,0 +1,15 @@
+{
+  "name": "svscroll",
+  "version": "1.0.0",
+  "description": "Custom Scrollbar for svelte apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fuad Hasan",
+  "license": "ISC",
+  "devDependencies": {
+    "svelte": "^3.55.0"
+  }
+}
